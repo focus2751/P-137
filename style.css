@@ -1,0 +1,42 @@
+body
+{
+   background-color: B4CDE6;
+}
+
+.heading
+{
+    font-size: 23px;
+    color: 4E6C50;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+
+#start, #status, #found_s
+{
+    font-size: 18px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: FFF8EA;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+
+#start
+{
+    background-color: BFCBA8;
+}
